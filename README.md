@@ -1,7 +1,7 @@
 # Data-Collection
-Some collected data for ML or AI projects, or just general reference. Uploaded in general, every 5-15 minutes. Start a discussion for a new type of data to be collected and in what format.
+When there was flooding in 2020 Febuary, for the centre of powys, I have recorded this data for people to easily use to predict whether or not the next predicted levels will flood. I also have made a prediction program that will allow me to see if the house will be at risk from flooding, based on this data.
 Current Format of all files is "=" for a new reading and "|" to split the data
-.csv Formats coming soon
+.csv Formats also availible
 
 # River Levels
 Format: Time | Llandrinio Level | Llanymynech Level | Abermule Level | Crewgreen Level | Meifod Level | Caersws Level =
